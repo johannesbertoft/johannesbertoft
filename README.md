@@ -1,4 +1,21 @@
-### Hi there 👋
+### 👋
+
+I'm Johannes and recently graduated from ITU Copenhagen. 
+
+Some of the languages/frameworks/libraries I've worked with during my studies and work at Ørsted Infrastructure Engineering:
+
+- Python (Flask, Pandana, GeoPandas, Pandas)
+- Java (Spring Boot)
+- R
+- F#
+- SQL/Databases (PostgreSQL/PostGIS, MS SQL, Influx DB)
+- React/Redux
+- Azure KQL
+- PowerBI
+
+Here you can see some of the work done for our Master's thesis. 
+
+
 
 <!--
 **johannesbertoft/johannesbertoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
