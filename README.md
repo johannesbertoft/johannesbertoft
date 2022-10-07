@@ -1,6 +1,6 @@
 ### 👋
 
-I'm Johannes and recently graduated from ITU Copenhagen. 
+I'm Johannes and recently finished my MSc in Software Design from ITU Copenhagen. 
 
 Some of the languages/frameworks/libraries I've worked with during my studies and work at Ørsted Infrastructure Engineering:
 
