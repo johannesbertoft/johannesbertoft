@@ -9,7 +9,7 @@ Some of the languages/frameworks/libraries I've worked with during my studies an
 - R
 - F#
 - SQL/Databases (PostgreSQL/PostGIS, MS SQL, Influx DB)
-- React/Redux
+- Javascript (React, Redux, Turf, Mapbox)
 - Azure KQL
 - PowerBI
 
